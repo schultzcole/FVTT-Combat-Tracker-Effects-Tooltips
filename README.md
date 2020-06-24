@@ -1,6 +1,6 @@
-# FVTT Module Template Repo
+# FVTT | Combat Tracker Effect Icon Tooltips
 
-A template repository for easy creation of new modules.
+Adds tool tips to the effect icons shown on tokens in the combat tracker.
 
 ## License
 
