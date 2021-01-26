@@ -27,9 +27,8 @@ function getFilenameFromUrl(url) {
 }
 
 function toTitleCase(str) {
-    const words = str.toLowerCase().split(/ |-|_|\./);
-    const uppercased = words
+    const words = str.toLowerCase().split(/[ \-_.]/);
+    return words
         .map(word => word.charAt(0).toUpperCase() + word.slice(1))
         .join(' ');
-    return uppercased;
 }
