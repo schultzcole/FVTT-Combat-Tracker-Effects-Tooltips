@@ -2,19 +2,18 @@
   "name": "ct-effect-tooltips",
   "title": "Combat Tracker Effect Icon Tooltips",
   "description": "Adds tool tips to the effect icons shown on tokens in the combat tracker.",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "author": "Cole Schultz (cole#9640)",
   "esmodules": [
     "ct-effect-tooltips.js"
   ],
   "minimumCoreVersion": "0.6.2",
-  "compatibleCoreVersion": "0.6.4",
+  "compatibleCoreVersion": "0.7.9",
 	"url": "https://github.com/schultzcole/FVTT-Combat-Tracker-Effects-Tooltips",
 	"manifest": "https://raw.githubusercontent.com/schultzcole/FVTT-Combat-Tracker-Effects-Tooltips/master/module.json",
-	"download": "https://github.com/schultzcole/FVTT-Combat-Tracker-Effects-Tooltips/archive/1.0.0.zip",
-	"license": "https://github.com/schultzcole/FVTT-Combat-Tracker-Effects-Tooltips/blob/1.0.0/LICENSE",
-	"readme": "https://github.com/schultzcole/FVTT-Combat-Tracker-Effects-Tooltips/blob/1.0.0/README.md",
-	"changelog": "https://github.com/schultzcole/FVTT-Combat-Tracker-Effects-Tooltips/blob/1.0.0/CHANGELOG.md"
+	"download": "https://github.com/schultzcole/FVTT-Combat-Tracker-Effects-Tooltips/archive/1.1.0.zip",
+	"license": "https://github.com/schultzcole/FVTT-Combat-Tracker-Effects-Tooltips/blob/1.1.0/LICENSE",
+	"readme": "https://github.com/schultzcole/FVTT-Combat-Tracker-Effects-Tooltips/blob/1.1.0/README.md",
+	"changelog": "https://github.com/schultzcole/FVTT-Combat-Tracker-Effects-Tooltips/blob/1.1.0/CHANGELOG.md"
 }
 
- 
