@@ -1,5 +1,9 @@
 # CHANGELOG
 
+## [2.0.0] 2021-06-11
+
+*Core 0.8 Compatibility*
+
 ## [1.1.0] 2021-01-25
 
 ### ADDED
